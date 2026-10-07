@@ -2,6 +2,8 @@
 
 从一份 CSV 开始，做出一个能拿给老师、学长和面试官看的数据分析作品。
 
+> 仓库地址：<https://github.com/handongjie228/energy-data-analysis>
+
 > 交付物怎么做（GitHub 仓库、1 页报告、5 分钟演示、12 周计划）见 [PROJECT_DELIVERABLES_GUIDE.md](PROJECT_DELIVERABLES_GUIDE.md)。
 
 > GitHub 注册与上传步骤见 [GITHUB_SETUP_GUIDE.md](GITHUB_SETUP_GUIDE.md)。
@@ -27,6 +29,8 @@ Energy_Data_Project/
 ├── energy_all_in_one.py         单文件完整版（推荐直接运行）
 ├── check_env.py                 环境自检脚本
 ├── report_template.md           1 页报告模板
+├── report.md                    1 页报告初稿（基于模拟数据）
+├── slides.md                    5 分钟演示大纲（7 页）
 ├── data/
 │   └── monthly_energy_sample.csv  模拟示例数据
 └── output/                      运行后自动生成
