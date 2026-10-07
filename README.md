@@ -4,6 +4,8 @@
 
 > 交付物怎么做（GitHub 仓库、1 页报告、5 分钟演示、12 周计划）见 [PROJECT_DELIVERABLES_GUIDE.md](PROJECT_DELIVERABLES_GUIDE.md)。
 
+> GitHub 注册与上传步骤见 [GITHUB_SETUP_GUIDE.md](GITHUB_SETUP_GUIDE.md)。
+
 ## 项目目标
 
 - 学会用 pandas 读取、清洗、汇总时间序列数据。
