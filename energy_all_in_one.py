@@ -726,7 +726,7 @@ def main() -> None:
 
     print(f"\n完成。输出目录：{out_dir}")
     print(f"图表目录：{charts_dir}")
-    print("下一步：把 output/summary.txt 和两张图放进 report_template.md。")
+    print("下一步：参照 output/summary.txt 和两张图表，写出一页分析报告。")
 
 
 if __name__ == "__main__":
