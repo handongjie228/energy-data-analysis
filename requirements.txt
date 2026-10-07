@@ -1,0 +1,10 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+ipykernel>=6.29
+jupyter_client>=8.6
+nbformat>=5.10
+nbclient>=0.10
+nbconvert>=7.16
+packaging>=23.2
+openpyxl>=3.1

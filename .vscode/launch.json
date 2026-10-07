@@ -1,0 +1,43 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "运行能源数据分析（完整）",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}\\energy_analysis.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}",
+      "python": "${workspaceFolder}\\.venv\\Scripts\\python.exe"
+    },
+    {
+      "name": "运行能源数据分析（不画图）",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}\\energy_analysis.py",
+      "args": ["--no-plot"],
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}",
+      "python": "${workspaceFolder}\\.venv\\Scripts\\python.exe"
+    },
+    {
+      "name": "运行单文件版（完整）",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}\\energy_all_in_one.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}",
+      "python": "${workspaceFolder}\\.venv\\Scripts\\python.exe"
+    },
+    {
+      "name": "运行单文件版（环境自检）",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}\\energy_all_in_one.py",
+      "args": ["--check"],
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}",
+      "python": "${workspaceFolder}\\.venv\\Scripts\\python.exe"
+    }
+  ]
+}
