@@ -1,5 +1,8 @@
 """兼容入口：复用 energy_all_in_one.py 的完整实现。
 
+作者：韩东杰
+学号：3260103072
+
 保留这个文件是为了兼容之前的运行方式：
     .venv\\Scripts\\python.exe energy_analysis.py --data data/我的数据.csv
 

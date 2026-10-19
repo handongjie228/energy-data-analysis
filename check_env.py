@@ -1,5 +1,8 @@
 """环境自检脚本。
 
+作者：韩东杰
+学号：3260103072
+
 用法：
     .venv\\Scripts\\python.exe check_env.py
 
